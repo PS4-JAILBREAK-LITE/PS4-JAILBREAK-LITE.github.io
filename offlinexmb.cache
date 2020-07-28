@@ -1,5 +1,5 @@
 CACHE MANIFEST 
-# v1.6 Self-Host 
+# v1.7 Self-Host 
 
 index.html
 wallpaper.jpg
@@ -20,8 +20,8 @@ payloads\FanControl.html
 payloads\FTP.bin
 payloads\FTPRW.bin
 payloads\ftprw.html
-payloads\Hen15.bin
-payloads\Hen15.html
+payloads\gta_v_ap_ii_intense.bin
+payloads\gta_v_ap_ii_intense.html
 payloads\Hen16.bin
 payloads\Hen17.bin
 payloads\Hen18.bin
@@ -59,6 +59,8 @@ payloads\Style_00.css
 payloads\Style_01.css
 payloads\Style_02.css
 payloads\Style_03.css
+payloads\todex.bin
+payloads\todex.html
 payloads\unblock.html
 payloads\vr.html
 payloads\vtxdump.html
